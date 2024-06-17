@@ -5,5 +5,5 @@
 4. Click on the "Extensions" tab
 5. Click "Add Extension" and selected the Zip file.
 6. Go to the "Theme" tab inside Preferences.
-7. Select Dark Mort HD, and click on the Select button below the Available Themes.
+7. Select Aseprite - Amoled, and click on the Select button below the Available Themes.
 8. Press OK  :^)
